@@ -1,0 +1,25 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-authcra-dev-162938-authRole",
+      "UnauthRoleArn": "arn:aws:iam::073983628607:role/amplify-authcra-dev-162938-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::073983628607:role/amplify-authcra-dev-162938-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-authcra-dev-162938-deployment",
+      "UnauthRoleName": "amplify-authcra-dev-162938-unauthRole",
+      "StackName": "amplify-authcra-dev-162938",
+      "StackId": "arn:aws:cloudformation:us-east-1:073983628607:stack/amplify-authcra-dev-162938/2eac0f30-85cd-11eb-97c7-0e9b76727ea5",
+      "AmplifyAppId": "dmiiwkp990vwi"
+    },
+    "categories": {
+      "auth": {
+        "authcra8289da7a": {
+          "userPoolId": "us-east-1_lZG4ypmP5",
+          "userPoolName": "CIT - Cognito PoC",
+          "webClientId": "711mkuma59qif48ps34u5ei5tt",
+          "nativeClientId": "556j6vr746hnnth96u8ke6shn2"
+        }
+      }
+    }
+  }
+}
