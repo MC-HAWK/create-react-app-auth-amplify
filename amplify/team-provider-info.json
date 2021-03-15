@@ -13,7 +13,7 @@
     },
     "categories": {
       "auth": {
-        "authcra8289da7a": {
+        "authcracb8cd1c5": {
           "userPoolId": "us-east-1_lZG4ypmP5",
           "userPoolName": "CIT - Cognito PoC",
           "webClientId": "711mkuma59qif48ps34u5ei5tt",

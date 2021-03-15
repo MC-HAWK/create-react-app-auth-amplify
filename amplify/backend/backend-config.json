@@ -1,6 +1,6 @@
 {
   "auth": {
-    "authcra8289da7a": {
+    "authcracb8cd1c5": {
       "service": "Cognito",
       "serviceType": "imported",
       "providerPlugin": "awscloudformation",
